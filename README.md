@@ -12,9 +12,9 @@ JavaScript: Interatividade
 
 ## 📌 Funcionalidades
 
-✅ Animações ao passar o mouse sobre os itens do menu
-✅ Design responsivo para diferentes dispositivos
-✅ Facilidade de personalização
+<div>✅ Animações ao passar o mouse sobre os itens do menu </div>
+<div>✅ Design responsivo para diferentes dispositivos</div>
+<div>✅ Facilidade de personalização</div>
 
 ## 📸 Demonstração
 
